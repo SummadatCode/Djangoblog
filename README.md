@@ -1,0 +1,2 @@
+# Djangoblog
+Learning Django
